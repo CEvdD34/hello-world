@@ -1,2 +1,5 @@
 # hello-world
-My first GitHub repository
+
+Hi hoomans?
+
+I like penguins, and that's about that...
